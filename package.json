@@ -4,6 +4,7 @@
   "description": "This is my personal theme. have a try and enjoy!",
   "version": "1.0.0",
   "publisher": "KavinduJayarathne",
+  "icon": "Icon.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/kavindujayarathne/da-theme-by-kavindu"
