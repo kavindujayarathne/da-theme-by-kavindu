@@ -1,0 +1,34 @@
+{
+  "name": "da-theme-by-kavindu",
+  "displayName": "Da Theme by Kavindu",
+  "description": "This is my personal theme. have a try and enjoy!",
+  "version": "1.0.0",
+  "publisher": "KavinduJayarathne",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavindujayarathne/da-theme-by-kavindu"
+  },
+  "keywords": [
+    "da theme",
+    "vs themes",
+    "themes",
+    "dark themes",
+    "da theme by kavindu",
+    "kavindu"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Da Theme by Kavindu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Da Theme by Kavindu-color-theme.json"
+      }
+    ]
+  }
+}
