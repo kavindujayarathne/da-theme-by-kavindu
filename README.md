@@ -12,13 +12,15 @@ You might have the same issue that I had with the existing themes. Here is my so
 
 And I should say, I was inspired by the [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) and the default VS Dark theme for the creation of this theme.
 
+I will continue to update this😊. Thank you❤️
+
 ### Screenshots
 
-<p><img src="https://github.com/kavindujayarathne/da-theme-by-kavindu/blob/master/Screenshots/Screenshot01.png" alt="screenshot01"></p>
-<p><img src="https://github.com/kavindujayarathne/da-theme-by-kavindu/blob/master/Screenshots/Screenshot02.png" alt="screenshot02"></p>
-<p><img src="https://github.com/kavindujayarathne/da-theme-by-kavindu/blob/master/Screenshots/Screenshot03.png" alt="screenshot03"></p>
-<p><img src="https://github.com/kavindujayarathne/da-theme-by-kavindu/blob/master/Screenshots/Screenshot04.png" alt="screenshot04"></p>
-<p><img src="https://github.com/kavindujayarathne/da-theme-by-kavindu/blob/master/Screenshots/Screenshot05.png" alt="screenshot05"></p>
-<p><img src="https://github.com/kavindujayarathne/da-theme-by-kavindu/blob/master/Screenshots/Screenshot06.png" alt="screenshot06"></p>
+<p><img src="Screenshots/Screenshot01.png" alt="screenshot01"></p>
+<p><img src="Screenshots/Screenshot02.png" alt="screenshot02"></p>
+<p><img src="Screenshots/Screenshot03.png" alt="screenshot03"></p>
+<p><img src="Screenshots/Screenshot04.png" alt="screenshot04"></p>
+<p><img src="Screenshots/Screenshot05.png" alt="screenshot05"></p>
+<p><img src="Screenshots/Screenshot06.png" alt="screenshot06"></p>
 
 **Happy Coding..!**
